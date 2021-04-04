@@ -1,10 +1,6 @@
 # Jenkins-deployment-process-Linux-Ubuntu-Docker
 Dockerizing Jenkins Pipeline -  continuous integration and delivery by Dockerizing Jenkins Pipeline.
 
-This project is copyright of thekunalsaini.
-
-This project flow like this :
-
 DESCRIPTION
 
 Demonstrate the continuous integration and delivery by Dockerizing Jenkins Pipeline.
